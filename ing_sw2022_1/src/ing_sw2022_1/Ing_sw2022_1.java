@@ -18,6 +18,7 @@ public class Ing_sw2022_1 {
         // TODO code application logic here
         System.out.print("system version 0");
         System.out.println("version 1");
+        System.out.println("version 2");
     }
     
 }
