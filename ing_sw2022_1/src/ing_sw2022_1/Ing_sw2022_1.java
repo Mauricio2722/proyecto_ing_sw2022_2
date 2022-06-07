@@ -16,6 +16,7 @@ public class Ing_sw2022_1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        system.out.print("");
     }
     
 }
